@@ -9,22 +9,23 @@ Welcome to my GitHub! I'm a passionate Software Developer with experience in Mac
 
 - 💡 **AI & ML Enthusiast** – Love building AI-driven applications and leveraging **OpenAI, TensorFlow, and PyTorch**.  
 - ☁️ **Cloud & Big Data** – Hands-on experience with **Google Cloud (DataFlow, Pub/Sub, Firebase), AWS, and ElasticSearch**.  
-- 🌐 **Full-Stack Developer** – Proficient in **Python, FastAPI, Django, React.js, Node.js, and Flutter**.  
+- 🌐 **Full-Stack Developer** – Proficient in **Python, FastAPI, Django, Rust, Kotlin, React.js, Node.js, and Flutter**.  
 - 🔬 **Former Software Engineer at ZoomRx (ferma.ai)** – Built AI-powered systems for **clinical data processing, medical knowledge graphs, and automated data extraction**.  
 
 ---
 
 ## 💼 Experience  
 
-- **Software Development Engineer II** | ZoomRx Pvt Ltd (ferma.ai) | *2022 - 2024*  
-- **Software Development Engineer** | ZoomRx Pvt Ltd (ferma.ai) | *2021 - 2022*  
-- **Software Engineer Intern** | ZoomRx Pvt Ltd (ferma.ai) | *2021*  
+- **Software Engineer Intern** | Amazon (Prime Video) | Washington DC | *2025*
+- **Software Development Engineer II** | ZoomRx Pvt Ltd (ferma.ai) | Chennai | *2022 - 2024*  
+- **Software Development Engineer** | ZoomRx Pvt Ltd (ferma.ai) | Chennai | *2021 - 2022*  
+- **Software Engineer Intern** | ZoomRx Pvt Ltd (ferma.ai) | Chennai | *2021*  
 
 ---
 
 ## 🔨 Tech Stack  
 
-💻 **Languages:** Python, C, C++, Java, JavaScript, TypeScript  
+💻 **Languages:** Python, Rust, Kotlin, C, C++, Java, JavaScript, TypeScript  
 🌐 **Frameworks & Tools:** Django, FastAPI, React.js, Node.js, LangChain, Docker, Kubernetes  
 📡 **Cloud & Databases:** Google Cloud (Storage, Pub/Sub, DataFlow), AWS, MySQL, PostgreSQL, Redis, ElasticSearch  
 🧠 **AI & ML:** OpenAI, TensorFlow, PyTorch, NLP, Speech Recognition  
